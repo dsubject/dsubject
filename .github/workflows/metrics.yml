@@ -19,16 +19,3 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
-  activity-charts:
-      runs-on: ubuntu-latest
-      steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
