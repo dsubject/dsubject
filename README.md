@@ -4,7 +4,11 @@ Hi 👋 My name is Dani Subject
 Software Developer
 ------------------
 
-English major turned software developer with a passion for sustainability. In 2017, I left my content writing job and learned full-stack development with ReactJS. Since then, I've gained experience in both web and mobile development across various technologies.
+English major turned full-stack developer with 7+ years of experience building accessible, human-centered applications.
+
+Passionate about mental health, ethical tech, and designing tools that make systems more transparent and humane.
+
+Advocate for inclusive design, thoughtful engineering, and coding with care
 
 Check out my personal website at [daniellesubject.com](https://daniellesubject.com)
 
